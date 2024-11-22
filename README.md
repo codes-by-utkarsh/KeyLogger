@@ -8,24 +8,26 @@ Customizable Start/Stop: Allows the user to manually start and stop logging.
 Stealth Mode: Runs in the background without visible UI interference.
 Log File Generation: Stores logs in a report.txt file.
 User-Friendly Interface: Simple and intuitive UI for controlling the logger.
-Prerequisites
+
+
+# Prerequisites
 Before running this project, ensure you have the following installed:
-
 Python 3.x
-Required Python libraries (install via requirements.txt)
+Required Python libraries
+
 Installation
-
-Clone the Repository - git clone https://github.com/codes-by-utkarsh/KeyLogger.git
-
+Clone the Repository - 
+ ```bash
+git clone https://github.com/codes-by-utkarsh/KeyLogger.git
+```
+ 
 cd keylogger
 
-Install Dependencies
+#Run the Keylogger
 
-pip install -r requirements.txt
-
-Run the Keylogger
+ ```bash
 python keylogger.py
-
+```
 
 View Logs:
 Open the report.txt file in the project directory to view the logged activity.
