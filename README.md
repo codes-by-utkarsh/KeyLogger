@@ -15,7 +15,7 @@ Python 3.x
 Required Python libraries (install via requirements.txt)
 Installation
 
-Clone the Repository - git clone https://github.com/yourusername/keylogger.git
+Clone the Repository - git clone https://github.com/codes-by-utkarsh/KeyLogger.git
 
 cd keylogger
 
